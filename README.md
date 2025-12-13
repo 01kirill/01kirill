@@ -38,6 +38,10 @@
 
 ## 🚀 Featured Projects
 
+### **[Music_Portal](https://github.com/01kirill/PythonCourses/tree/main/lesson25_musicPortal)**
+FullStack project made for learing technologies.
+**Tech:** Django, Django REST Framework, Celery, PostgreSQL, Redis, Docker, Nginx.
+
 ---
 
 ⭐ *From [01kirill](https://github.com/01kirill)*
