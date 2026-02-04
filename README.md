@@ -42,6 +42,9 @@
 FullStack project made for learing technologies.
 **Tech:** Django, Django REST Framework, Celery, PostgreSQL, Redis, Docker, Nginx.
 
+### **[Finance Tracker](https://github.com/01kirill/finance-tracker/tree/develop)**
+Final project for TMS python courses
+
 ---
 
 ⭐ *From [01kirill](https://github.com/01kirill)*
